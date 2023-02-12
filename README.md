@@ -1,2 +1,2 @@
 # finbar-issues
-Issue tracker for Finbar
+Bug reports, feature requests and general feedback for Finbar.
